@@ -19,7 +19,7 @@ const server = new McpServer({ name: "my-server" });
 
 // Create a monitor and wrap your server
 const monitor = createMonitor({
-  apiKey: "mk_your_api_key_here", // Get your key at https://mcp-monitor.vercel.app
+  apiKey: "mk_your_api_key_here", // Get your key at https://mcpmonitor.io
   agent: "my-agent",
 });
 
@@ -57,7 +57,7 @@ const result = await session.trackCall("search_customer", { query: "John" }, asy
 
 ## Dashboard
 
-View your data at [mcp-monitor.vercel.app](https://mcp-monitor.vercel.app)
+View your data at [mcp-monitor.vercel.app](https://mcpmonitor.io)
 
 ## License
 
