@@ -1,6 +1,6 @@
 {
   "name": "mcp-monitor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Real-time monitoring and observability for MCP servers",
   "main": "index.mjs",
   "type": "module",
@@ -9,9 +9,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/breakhittcg/mcp-monitor"
+    "url": "https://github.com/breakhittcg/mcp-monitor-sdk"
   },
-  "homepage": "https://mcp-monitor.vercel.app",
+  "homepage": "https://mcpmonitor.io",
   "engines": {
     "node": ">=18"
   }
