@@ -1,6 +1,6 @@
 {
   "name": "mcp-monitor",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Real-time monitoring and observability for MCP servers",
   "main": "index.mjs",
   "type": "module",
