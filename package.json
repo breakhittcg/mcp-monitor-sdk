@@ -1,10 +1,17 @@
 {
   "name": "mcp-monitor",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Real-time monitoring and observability for MCP servers",
   "main": "index.mjs",
   "type": "module",
-  "keywords": ["mcp", "monitoring", "observability", "ai", "agents", "model-context-protocol"],
+  "keywords": [
+    "mcp",
+    "monitoring",
+    "observability",
+    "ai",
+    "agents",
+    "model-context-protocol"
+  ],
   "author": "breakhittcg",
   "license": "MIT",
   "repository": {
